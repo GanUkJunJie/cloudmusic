@@ -1,28 +1,35 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <layoutHeader/>
+    <layoutCenter/>
+    <layoutFooter/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import LayoutHeader from './layout/layout-header.vue'
+import LayoutCenter from './layout/layout-center.vue'
+import LayoutFooter from './layout/layout-footer.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    LayoutHeader,
+    LayoutCenter,
+    LayoutFooter
   }
 }
 </script>
 
-<style>
+<style scoped>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  height: 100%;
+  width: 100%;
+  background: url(./assets/img/background.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  top: 0;
+  left: 0;
+  position: fixed;
 }
 </style>

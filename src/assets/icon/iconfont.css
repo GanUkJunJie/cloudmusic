@@ -1,0 +1,177 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1632701724622') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yifuhuanfu:before {
+  content: "\e6e0";
+}
+
+.icon-iconset0425:before {
+  content: "\e730";
+}
+
+.icon-bofangsanjiaoxing:before {
+  content: "\e769";
+}
+
+.icon-icmale:before {
+  content: "\e76a";
+}
+
+.icon-shengyin:before {
+  content: "\e753";
+}
+
+.icon-weibo:before {
+  content: "\e61a";
+}
+
+.icon-xingxiaoxiaoguo:before {
+  content: "\e61f";
+}
+
+.icon-tubiaozhizuomoban:before {
+  content: "\e605";
+}
+
+.icon-bofang:before {
+  content: "\e61c";
+}
+
+.icon-cuowuguanbiquxiao:before {
+  content: "\e8e7";
+}
+
+.icon-network:before {
+  content: "\e662";
+}
+
+.icon-xiugai:before {
+  content: "\e8cf";
+}
+
+.icon-play_icon:before {
+  content: "\e667";
+}
+
+.icon-icon--:before {
+  content: "\e780";
+}
+
+.icon-zuidahua:before {
+  content: "\e66b";
+}
+
+.icon-huangguan:before {
+  content: "\e6a7";
+}
+
+.icon-dianshunxu:before {
+  content: "\e7d9";
+}
+
+.icon-renwu-zengjia:before {
+  content: "\e74a";
+}
+
+.icon-youxiang:before {
+  content: "\e610";
+}
+
+.icon-zuihouyiyemoyexiayishou:before {
+  content: "\e76d";
+}
+
+.icon-diyiyeshouyeshangyishou:before {
+  content: "\e76e";
+}
+
+.icon-tubiaozhizuo-:before {
+  content: "\e606";
+}
+
+.icon-zuijinbofang:before {
+  content: "\e6d7";
+}
+
+.icon-xiaolian:before {
+  content: "\e688";
+}
+
+.icon-icon_huabanfuben:before {
+  content: "\e62e";
+}
+
+.icon-icon-:before {
+  content: "\e668";
+}
+
+.icon-B:before {
+  content: "\e70a";
+}
+
+.icon-zanting:before {
+  content: "\e624";
+}
+
+.icon-bofangliebiao:before {
+  content: "\e6a8";
+}
+
+.icon-xin:before {
+  content: "\e6cd";
+}
+
+.icon-minimize:before {
+  content: "\e66c";
+}
+
+.icon-shezhi:before {
+  content: "\e803";
+}
+
+.icon-fenxiang:before {
+  content: "\e601";
+}
+
+.icon-male-01:before {
+  content: "\e6e1";
+}
+
+.icon-gangqin:before {
+  content: "\e653";
+}
+
+.icon-yinliang:before {
+  content: "\e67f";
+}
+
+.icon-danquxunhuan:before {
+  content: "\e6a2";
+}
+
+.icon-liebiaoxunhuan:before {
+  content: "\e6a3";
+}
+
+.icon-SmallWindow:before {
+  content: "\e665";
+}
+
+.icon-ren:before {
+  content: "\e6fe";
+}
+
+.icon-caidan:before {
+  content: "\e616";
+}
+
