@@ -12,7 +12,7 @@ export default {
   name: 'LayoutCenter',
   components: {
     LeftMenu,
-    RightMain
+    RightMain,
   }
 }
 </script>
